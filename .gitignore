@@ -2,3 +2,5 @@ java_geek.iml
 .idea
 out
 src/.idea
+.gitignore
+/src/java1_cours1
