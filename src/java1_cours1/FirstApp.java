@@ -29,7 +29,6 @@ public class FirstApp {
 
         System.out.println(umnSumDel(5, 4, 6, 2));
     }
-
     // Задание 3
     public static float umnSumDel(float a, float b, float c, float d) {
         return a * (b + (c / d));
