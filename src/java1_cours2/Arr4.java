@@ -1,3 +1,5 @@
+package java1_cours2;
+// Задание 4
 public class Arr4 {
     public static void main(String[] args) {
         int counter=0;

@@ -1,4 +1,5 @@
-
+package java1_cours2;
+// Задание 6
 public class ArrSumLR {
     public static void main(String[] args) {
         int[] arr = {1, 5, 3, 2, 10, 4, 4, 21};
